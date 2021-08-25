@@ -90,7 +90,7 @@ def tech_abm():
     print('')
     print("\033[1;97m--------------------------------------------------")
     username = raw_input("\033[1;97m[+]\033[1;97m Username :\033[1;97m ")
-    if username =="Rock":
+    if username =="sufyan":
         os.system("clear")
         print logo
         print ("[+] Username : sufyan (Correct)")
